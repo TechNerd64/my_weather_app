@@ -1,0 +1,1 @@
+a simple weather webapp being developed as a beginner project for python.
